@@ -1,0 +1,10 @@
+2026-09-15 20:50:24,693 INFO Catalog returned 3 products; requested 3
+2026-09-15 20:50:24,693 INFO [1/3] Fetching reliancesmart_test1
+2026-09-15 20:50:27,646 INFO [2/3] Fetching amazon
+2026-09-15 20:50:30,615 INFO [3/3] Fetching pvr
+2026-09-15 20:50:33,609 INFO Validation: {"expected_count": 3, "actual_count": 3, "unique_brand_keys": 3, "duplicate_brand_keys": [], "ranks_missing_brand_key": [], "records_with_null_fields": {"brand_name": 0, "category": 1, "validity_text": 0, "about": 0, "how_to_redeem": 0, "terms_and_conditions": 0, "faqs": 0}, "passed": true}
+2026-09-16 00:02:09,903 INFO Catalog returned 3 products; requested 3
+2026-09-16 00:02:09,908 INFO [1/3] Fetching reliancesmart_test1
+2026-09-16 00:02:12,256 INFO [2/3] Fetching amazon
+2026-09-16 00:02:14,570 INFO [3/3] Fetching pvr
+2026-09-16 00:02:16,988 INFO Validation: {"expected_count": 3, "actual_count": 3, "unique_brand_keys": 3, "duplicate_brand_keys": [], "ranks_missing_brand_key": [], "records_with_null_fields": {"brand_name": 0, "category": 1, "validity_text": 0, "about": 0, "how_to_redeem": 0, "terms_and_conditions": 0, "faqs": 0}, "passed": true}

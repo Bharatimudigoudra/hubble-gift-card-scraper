@@ -1,0 +1,17 @@
+{
+  "expected_count": 100,
+  "actual_count": 100,
+  "unique_brand_keys": 100,
+  "duplicate_brand_keys": [],
+  "ranks_missing_brand_key": [],
+  "records_with_null_fields": {
+    "brand_name": 0,
+    "category": 3,
+    "validity_text": 0,
+    "about": 45,
+    "how_to_redeem": 0,
+    "terms_and_conditions": 0,
+    "faqs": 58
+  },
+  "passed": true
+}
